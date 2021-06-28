@@ -16,7 +16,7 @@ def index():
 
 
 # Creating different routes
-@app.route('/second')
+@app.route('/2fa')
 def second():
   return "I'm on a separate route"
 
